@@ -1,4 +1,4 @@
-NodeMailer - contact form for sending emails from your website
+NodeMailer - contact form created for sending emails from your website.
 
 const transporter = nodemailer.createTransport({
   host: 'smtp.gmail.com',
